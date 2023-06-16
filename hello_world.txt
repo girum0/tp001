@@ -1,2 +1,3 @@
 Hello, World!
 We've added a new feature\!
+We've added a new feature\!
